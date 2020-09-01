@@ -12,9 +12,9 @@
 - [https://docs.gitlab.com](https://docs.gitlab.com/ee/user/project/pages/)
 
 #### UI
-- https://uimovement.com]()
-- http://uigarage.net]()
-- http://collectui.com]()
+- https://uimovement.com
+- http://uigarage.net
+- http://collectui.com
 
 #### Illustrations 
 - [undraw.co](https://undraw.co)
