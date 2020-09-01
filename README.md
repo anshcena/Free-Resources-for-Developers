@@ -39,8 +39,8 @@
 - [http://iconmonstr.com](http://iconmonstr.com)
 
 #### Color Palettes:
-- [https://coolors.co](https://coolors.co)
-- [https://colorhunt.co]([https://colorhunt.co)
+- [https://coolors.co](https://coolors.com)
+- [https://colorhunt.co]([https://colorhunt.com)
 - [https://paletton.com](https://paletton.com)
 - [https://color-hex.com](https://color-hex.com)
 - [https://mycolor.space](https://mycolor.space)
