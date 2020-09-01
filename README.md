@@ -25,6 +25,7 @@
 - [blush.design](https://blush.design)
 - [freepik.com](https://freepik.com)
 - [heropatterns.com](https://heropatterns.com)
+- **Open Doodles** - https://www.opendoodles.com/
 
 #### Photos
  - [http://unsplash.com](http://unsplash.com)
