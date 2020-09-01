@@ -1,15 +1,5 @@
 ## Some Lisitng of Free Resources
 
-#### Illustrations 
-- [undraw.co](https://undraw.co)
-- [drawkit.io](https://drawkit.io)
-- [icons8.com](https://icons8.com)
-- [iradesign.io](https://iradesign.io)
-- [interfacer.xyz](https://interfacer.xyz)
-- [blush.design](https://blush.design)
-- [freepik.com](https://freepik.com)
-- [heropatterns.com](https://heropatterns.com)
-
 #### Free Hosting 
 - [https://netlify.com](https://netlify.com)
 - [http://firebase.google.com](http://firebase.google.com)
@@ -20,6 +10,16 @@
 - [http://surge.sh](http://surge.sh)
 - [http://render.com](http://render.com)
 - [https://docs.gitlab.com](https://docs.gitlab.com/ee/user/project/pages/)
+
+#### Illustrations 
+- [undraw.co](https://undraw.co)
+- [drawkit.io](https://drawkit.io)
+- [icons8.com](https://icons8.com)
+- [iradesign.io](https://iradesign.io)
+- [interfacer.xyz](https://interfacer.xyz)
+- [blush.design](https://blush.design)
+- [freepik.com](https://freepik.com)
+- [heropatterns.com](https://heropatterns.com)
 
 #### Photos
  - [http://unsplash.com](http://unsplash.com)
