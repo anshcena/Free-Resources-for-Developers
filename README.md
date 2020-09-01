@@ -38,18 +38,48 @@
 - [http://material.io/resources/icons](http://material.io/resources/icons)
 - [http://iconmonstr.com](http://iconmonstr.com)
 
+#### Color Palettes:
+- [https://coolors.co](https://coolors.co)
+- [https://colorhunt.co]([https://colorhunt.co)
+- [https://paletton.com](https://paletton.com)
+- [https://color-hex.com](https://color-hex.com)
+- [https://mycolor.space](https://mycolor.space)
+
+#### UI Inspiration:
+
 #### Animation Libraries:
 
-- CSShake()
-- Animate.css()
-- AnimeJS()
-- GreenSock (GSAP)()
-- Magic Animations()
-- Hover css()
-- AniJS()
-- Wicked /CSS()
-- Tuesday()
-- Mo.js()
-- Bounce.js()
+- CSShake
+- Animate.css
+- AnimeJS
+- GreenSock (GSAP)
+- Magic Animations
+- Hover css
+- AniJS
+- Wicked /CSS
+- Tuesday
+- Mo.js
+- Bounce.js
+
+#### Charts / Data Visualization:
+
+- chart Chart.js
+- chart D3.js
+- chart three.js
+
+#### Chrome Extensions:
+
+- Web Developer
+- CSSViewer
+- Wappalyzer
+- JSONView
+- Lorem Ipsum Generator
+
+#### Website Optimization Tools:
+
+- Google PageSpeed Insights
+- GTmetrix
+- WebPageTest
+- Yslow
 
 
