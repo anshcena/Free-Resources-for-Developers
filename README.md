@@ -62,6 +62,9 @@
 - Mo.js
 - Bounce.js
 
+#### Wave Generator
+- https://getwaves.io/
+
 #### Charts / Data Visualization:
 
 - chart Chart.js
@@ -82,5 +85,18 @@
 - GTmetrix
 - WebPageTest
 - Yslow
+
+#### VS CODE EXTENSIONS USEFUL FOR DEVELOPERS
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- [TabNine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+- [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+- [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview)
+- [Live SASS Compiler](https://t.co/ItHr4WXBHW?amp=1)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [Dracula Theme](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
 
