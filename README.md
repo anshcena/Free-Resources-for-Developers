@@ -12,6 +12,17 @@ Content Credit : [Marko ⚡ Denic](https://twitter.com/denicmarko) | [AnkurGreen
 - [http://render.com](http://render.com)
 - [https://docs.gitlab.com](https://docs.gitlab.com/ee/user/project/pages/)
 
+### Top Free HTML Templates
+- http://uideck.com
+- http://creative-Tim.com
+- http://html5up.net 
+- http://freehtml5.co 
+- http://onepagelove.com
+- http://graygrids.com
+- http://inovatik.com
+- http://uicookies.com
+
+
 #### UI
 - https://uimovement.com
 - http://uigarage.net
