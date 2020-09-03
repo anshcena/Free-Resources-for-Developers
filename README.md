@@ -1,3 +1,4 @@
+Content Credit : [Marko ⚡ Denic](https://twitter.com/denicmarko) | [AnkurGreen :heart: JavaScript](https://twitter.com/TheAnkurTyagi)
 ## Some Lisitng of Free Resources
 
 #### Free Hosting 
