@@ -1,16 +1,24 @@
 Content Credit : [Marko ⚡ Denic](https://twitter.com/denicmarko) | [AnkurGreen :heart: JavaScript](https://twitter.com/TheAnkurTyagi)
-## Some Lisitng of Free Resources
 
-#### Free Hosting 
-- [https://netlify.com](https://netlify.com)
-- [http://firebase.google.com](http://firebase.google.com)
-- [http://aws.amazon.com](http://aws.amazon.com)
-- [http://heroku.com](http://heroku.com)
-- [http://pages.github.com](http://pages.github.com)
-- [http://vercel.com](http://vercel.com)
-- [http://surge.sh](http://surge.sh)
-- [http://render.com](http://render.com)
-- [https://docs.gitlab.com](https://docs.gitlab.com/ee/user/project/pages/)
+## Some Listing of Free Resources
+
+#### Kits
+- [Github Student Pack](https://education.github.com/pack)
+
+#### Static Web Hosting 
+- [Netlify](https://netlify.com)
+- [Firebase](http://firebase.google.com)
+- [Github Pages](http://pages.github.com)
+- [Vercel](http://vercel.com)
+- [Surge.sh](http://surge.sh)
+- [Render](http://render.com)
+- [Gitlab Pages](https://docs.gitlab.com/ee/user/project/pages/)
+
+#### Backend Hosting
+- [AWS Lambda](https://aws.amazon.com/lambda/) - 1 Million hits free per month
+- [Glitch](https://glitch.com/) - 1000 hours per month
+- [Python Anywhere](https://www.pythonanywhere.com)
+- [Heroku](https://www.heroku.com/free)
 
 ### Top Free HTML Templates
 - http://uideck.com
@@ -44,7 +52,7 @@ Content Credit : [Marko ⚡ Denic](https://twitter.com/denicmarko) | [AnkurGreen
  - [http://pixabay.com](http://pixabay.com)
  - [http://pexels.com](http://pexels.com)
  
- #### Icons
+#### Icons
 - [http://fontawesome.com](http://fontawesome.com)
 - [http://flaticon.com](http://flaticon.com)
 - [http://icons8.com](http://icons8.com)
@@ -79,9 +87,9 @@ Content Credit : [Marko ⚡ Denic](https://twitter.com/denicmarko) | [AnkurGreen
 
 #### Charts / Data Visualization:
 
-- chart Chart.js
-- chart D3.js
-- chart three.js
+- [D3.js](https://d3js.org/)
+- [Chart.js](https://www.chartjs.org/)
+- [Plotly.js](https://plotly.com/)
 
 #### Chrome Extensions:
 
