@@ -101,3 +101,13 @@
 
 ## [Awesome Web Developments Tools](https://github.com/anshcena/Free-Resources-for-Developers/blob/master/Web-Development-Tools.md)
 
+## Useful websites for web developers:
+- daily. dev :  News for Busy Developers
+
+- devdocs. io : Free documentation browser for developers
+
+- feathericons. com : Collection of open source icons
+
+- shortcode. dev : Code cheatsheets
+
+
