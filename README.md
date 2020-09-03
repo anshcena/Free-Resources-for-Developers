@@ -99,4 +99,5 @@
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
+## [Awesome Web Developments Tools](https://github.com/anshcena/Free-Resources-for-Developers/blob/master/Web-Development-Tools.md)
 
