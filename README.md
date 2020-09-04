@@ -151,16 +151,16 @@ Content Credit : [Marko ⚡ Denic](https://twitter.com/denicmarko) | [AnkurGreen
 
 ## Version Control
 
-- diamondGit 
+- Git 
 - indexCode Vaults
-- diamondGitHub 
-- diamondGitLab
+- GitHub 
+- GitLab
 
 ## Most Popular UI Libraries
 
-- diamondBootstrap
-- diamondAnt Design
-- diamondMaterial UI
-- diamondSeematic UI
-- diamondChakra UI
+- Bootstrap
+- Ant Design
+- Material UI
+- Seematic UI
+- Chakra UI
 
