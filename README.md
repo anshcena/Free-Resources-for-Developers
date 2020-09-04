@@ -130,4 +130,37 @@ Content Credit : [Marko ⚡ Denic](https://twitter.com/denicmarko) | [AnkurGreen
 
 - [shortcode. dev](https://shortcode.dev/) : *Code cheatsheets*
 
+## Text Editor
+- diamond VS Code
+- diamond Sublime Text Editor 
+- diamond Atom
+- diamond Notepad ++
+- diamond Vim
+
+## Online Editors
+
+- diamondhttp://CodeOpen.io
+- diamondSandbox
+- diamondJS Bin
+
+## Database(Popular)
+- 🔸MongoDB
+- 🔸PostgreSql
+- 🔸My Sql
+- 🔸Redis
+
+## Version Control
+
+- diamondGit 
+- indexCode Vaults
+- diamondGitHub 
+- diamondGitLab
+
+## Most Popular UI Libraries
+
+- diamondBootstrap
+- diamondAnt Design
+- diamondMaterial UI
+- diamondSeematic UI
+- diamondChakra UI
 
