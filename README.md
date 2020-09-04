@@ -37,7 +37,7 @@ Content Credit : [Marko ⚡ Denic](https://twitter.com/denicmarko) | [AnkurGreen
 - http://collectui.com
 
 #### Neumorphism Generator
-**[neumorphism.io](https://neumorphism.io/#76f353)
+- [neumorphism.io](https://neumorphism.io/#76f353)
 
 #### Illustrations 
 - [undraw.co](https://undraw.co)
