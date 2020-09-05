@@ -88,6 +88,9 @@ Content Credit : [Marko ⚡ Denic](https://twitter.com/denicmarko) | [AnkurGreen
 #### Wave Generator
 - https://getwaves.io/
 
+### Maps 
+- https://leafletjs.com/
+
 #### Charts / Data Visualization:
 
 - [D3.js](https://d3js.org/)
