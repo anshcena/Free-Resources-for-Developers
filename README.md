@@ -104,6 +104,15 @@ Content Credit : [Marko ⚡ Denic](https://twitter.com/denicmarko) | [AnkurGreen
 - Wappalyzer
 - JSONView
 - Lorem Ipsum Generator
+- JSONView
+- The Great Suspender
+- Web developer
+- Talend API Tester
+- Clear Cache
+- Wappalyzer
+- Full Page Screen Capture
+- ColorZilla
+- WhatFont
 
 #### Website Optimization Tools:
 
