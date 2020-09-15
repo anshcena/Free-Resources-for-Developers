@@ -150,23 +150,23 @@ Content Credit : [Marko ⚡ Denic](https://twitter.com/denicmarko) | [AnkurGreen
 - [shortcode. dev](https://shortcode.dev/) : *Code cheatsheets*
 
 ## Text Editor
-- diamond VS Code
-- diamond Sublime Text Editor 
-- diamond Atom
-- diamond Notepad ++
-- diamond Vim
+- VS Code
+- Sublime Text Editor 
+- Atom
+- Notepad ++
+- Vim
 
 ## Online Editors
 
-- diamondhttp://CodeOpen.io
-- diamondSandbox
-- diamondJS Bin
+- http://CodeOpen.io
+- Sandbox
+- JS Bin
 
 ## Database(Popular)
-- 🔸MongoDB
-- 🔸PostgreSql
-- 🔸My Sql
-- 🔸Redis
+- MongoDB
+- PostgreSql
+- My Sql
+- Redis
 
 ## Version Control
 
