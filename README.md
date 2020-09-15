@@ -183,3 +183,16 @@ Content Credit : [Marko ⚡ Denic](https://twitter.com/denicmarko) | [AnkurGreen
 - Seematic UI
 - Chakra UI
 
+## Top 10 websites for freelancing:
+
+- Codementor
+- Upwork
+- Freelancer
+- Fiverr
+- Toptal
+- 99Designs
+- Guru
+- PeoplePerHour
+- Dribbble
+- Design Hill
+
