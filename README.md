@@ -97,6 +97,15 @@ Content Credit : [Marko ⚡ Denic](https://twitter.com/denicmarko) | [AnkurGreen
 - [Chart.js](https://www.chartjs.org/)
 - [Plotly.js](https://plotly.com/)
 
+#### 6 JavaScript Libraries for form validation
+
+- Validate.js
+- Validator.js
+- Parsley.js
+- Formik (for React)
+- Vuelidate (for Vue)
+- Angular Validator (for Angular)
+
 ### 404 Pages
 - https://search.muz.li/inspiration/404-page-not-found-design-inspiration/
 - https://error404.fun/
