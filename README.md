@@ -62,6 +62,10 @@ Content Credit : [Marko ⚡ Denic](https://twitter.com/denicmarko) | [AnkurGreen
 - [http://material.io/resources/icons](http://material.io/resources/icons)
 - [http://iconmonstr.com](http://iconmonstr.com)
 
+#### PWA Icon Generator
+
+- https://github.com/anshcena/pwa-icon-generator
+
 #### Color Palettes:
 - [https://coolors.co](https://coolors.co)
 - [https://colorhunt.co](https://colorhunt.co)
@@ -204,4 +208,5 @@ Content Credit : [Marko ⚡ Denic](https://twitter.com/denicmarko) | [AnkurGreen
 - PeoplePerHour
 - Dribbble
 - Design Hill
+
 
