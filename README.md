@@ -61,6 +61,7 @@ Content Credit : [Marko ⚡ Denic](https://twitter.com/denicmarko) | [AnkurGreen
 - [http://icons8.com](http://icons8.com)
 - [http://material.io/resources/icons](http://material.io/resources/icons)
 - [http://iconmonstr.com](http://iconmonstr.com)
+- [https://www.iconfinder.com](https://www.iconfinder.com)
 
 #### PWA Icon Generator
 
@@ -74,6 +75,9 @@ Content Credit : [Marko ⚡ Denic](https://twitter.com/denicmarko) | [AnkurGreen
 - [https://mycolor.space](https://mycolor.space)
 
 #### UI Inspiration:
+- https://dribbble.com
+- https://www.evernote.design
+- https://pageflows.com
 
 #### Animation Libraries:
 
