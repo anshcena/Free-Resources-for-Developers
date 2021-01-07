@@ -30,6 +30,8 @@ Content Credit : [Marko ⚡ Denic](https://twitter.com/denicmarko) | [AnkurGreen
 - http://inovatik.com
 - http://uicookies.com
 
+https://bennettfeely.com/clippy/
+
 
 #### UI
 - https://uimovement.com
