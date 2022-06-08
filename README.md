@@ -51,6 +51,8 @@ https://bennettfeely.com/clippy/
 - [freepik.com](https://freepik.com)
 - [heropatterns.com](https://heropatterns.com)
 - **Open Doodles** - https://www.opendoodles.com/
+- [illustrations-figma](https://www.artify.co/illustrations-figma)
+- [vector-illustrations](https://www.artify.co/vector-illustrations)
 
 #### Photos
  - [http://unsplash.com](http://unsplash.com)
@@ -64,6 +66,8 @@ https://bennettfeely.com/clippy/
 - [http://material.io/resources/icons](http://material.io/resources/icons)
 - [http://iconmonstr.com](http://iconmonstr.com)
 - [https://www.iconfinder.com](https://www.iconfinder.com)
+- [https://www.3dicons.com/](https://www.3dicons.com/)
+- [https://www.iconshock.com/](https://www.iconshock.com/)
 
 #### PWA Icon Generator
 
